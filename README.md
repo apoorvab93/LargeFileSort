@@ -33,4 +33,8 @@ The file largeText_10GB contains randomly generated Integers
 The files chunk_10_* contains 1GB chunks of integers that have been sorted
 The file output_sorted contains the entire Integer set but sorted.
 
+**Max memory used**
+![image](https://user-images.githubusercontent.com/56744800/120930730-5a300f00-c6a3-11eb-81be-23044408c88a.png)
+
+
 
