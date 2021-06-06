@@ -25,7 +25,7 @@ PART-2 MERGE SORTED CHUNKS
 1. Simply clone the code and open the project in your Java IDE (I used free community edition Intellij) or just compile and run Main.java file like any other java program
 2. Make sure you set the maximum heap size to no more than 1 GB to simulate the limited memory scenarios.
 
-![image](https://user-images.githubusercontent.com/56744800/120914156-f8df5000-c650-11eb-9d81-2a8585cbcc64.png)
+![image](https://user-images.githubusercontent.com/56744800/120925921-9eb1af80-c68f-11eb-87fa-34b51084b898.png)
 
 **Output files from my local run**
 ![image](https://user-images.githubusercontent.com/56744800/120914191-3c39be80-c651-11eb-825c-6579402c10ae.png)
