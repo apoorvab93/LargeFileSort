@@ -10,6 +10,7 @@ Example - Suppose there is a 100 GB file containing integers and machine has 10 
 3. To be able to run it on my student laptop that does not have free 100GB space, I had to reduce scale of the problem by 10. I will test it first with file size of 10GB and a max memory footprint of 1GB.
 
 **Approach**
+
 PART-1 SORTING IN CHUNKS
 1. Read the large file in chunks and store the read numbers as an integer array.
 2. Each chunk is no more than 1 GB in size(10% of the file size)
